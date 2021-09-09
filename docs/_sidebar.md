@@ -8,6 +8,8 @@
 
 * [投资工具](tools)
 
+* [估值和周期](est-circles)
+
 * [怎么选基](how-to-choose-funds)
 
 * [定投](periodically-invest)
