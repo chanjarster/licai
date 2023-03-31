@@ -4,5 +4,9 @@
 * [投资工具](tools)
 * [宏观经济指标](big-env)
 * [投资总结](invest-summary)
-* [分析日志](analyze-log)
+* [分析日志](analyze-log/index)
 * [指数与指标相关性](price-co-coef/index)
+* 宏观数据
+  * [规模以上工业企业利润](macro/industry-profit/index)
+  * [房地产开发投资](macro/real-estate/index)
+  * [基础设施投资](macro/base-infras-invest/index)
