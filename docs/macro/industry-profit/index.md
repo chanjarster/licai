@@ -7,3 +7,5 @@
 分析日志：
 
 * [2023年医药行业投资机会分析](macro/industry-profit/2023-04-04-medic-analyze)
+* [2023年半导体行业投资机会分析](macro/industry-profit/2023-04-07-bandaoti-analyze)
+
