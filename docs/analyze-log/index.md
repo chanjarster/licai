@@ -2,6 +2,7 @@
 
 ## 2023年
 
+* [2023-04-17 基建投资增速数据怎么看](macro/base-infras-invest/2023-04-17-analyze)
 * [2023-04-07 2023年半导体行业投资机会分析](macro/industry-profit/2023-04-07-bandaoti-analyze)
 * [2023-04-04 2023年医药行业投资机会分析](macro/industry-profit/2023-04-04-medic-analyze)
 * [2023-04-03 2023年房地产投资机会](macro/real-estate/2023-04-03-analyze)
