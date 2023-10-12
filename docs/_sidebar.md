@@ -10,5 +10,6 @@
   * [房地产开发投资](macro/real-estate/index)
   * [基础设施投资](macro/base-infras-invest/index)
 * 相关性分析
+  * [指数与指标相关性 2023-10-12](price-co-coef/indices-231012)
   * [指数与指标相关性](price-co-coef/indices)
   * [股票与指标相关性](price-co-coef/stocks)
