@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Skill(playwright-cli)",
+      "mcp___playwright_mcp__*",
+      "WebSearch",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(node:*)",
+      "Bash(npx vitest:*)",
+      "Bash(ls:*)",
+      "Bash(npm test:*)",
+      "Bash(npx tsc:*)",
+      "Bash(lsof:*)"
+    ]
+  }
+}
